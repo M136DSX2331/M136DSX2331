@@ -1,4 +1,14 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Mukhlishin M Arsyad**.
+
+Saya seorang **Bangkit Cohort 2023**.
+
+Saya saat ini sedang belajar di learning path [Machine Learning](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) sejak Februari 2023.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mukhlishinmarsyad/)ku ya.
+
+
 
 <!--
 **M136DSX2331/M136DSX2331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
